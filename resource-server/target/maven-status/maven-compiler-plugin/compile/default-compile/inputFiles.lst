@@ -1,0 +1,9 @@
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/vo/Authority.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/infra/SecurityConfig.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/repositories/MessageRepository.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/ResourceServerApplication.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/resources/MessageController.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/vo/User.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/vo/Message.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/repositories/AuthorityRepository.java
+/Users/jonathanpoulter/spring/oidc-demo/resource-server/src/main/java/springfive/security/resourceserver/domain/repositories/UserRepository.java

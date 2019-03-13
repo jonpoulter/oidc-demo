@@ -1,0 +1,23 @@
+server:
+  port: 4000
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: 76655f49284e361a0561
+            client-secret: 5cf2cc794445e5be056f88615933ca26546cff21
+          keycloak:
+            client-id: oidc-demo
+            client-secret: ${keycloak-client-secret}
+            #scope: openid phone email profile offline_access address roles
+            scope: openid email roles
+        provider:
+          keycloak:
+            issuer-uri: http://idp:8080/auth/realms/acme
+            user-info-uri: http://idp:8080/auth/realms/acme/protocol/openid-connect/userinfo
+      resourceserver:
+        jwt:
+          issuer-uri: http://idp:8080/auth/realms/acme

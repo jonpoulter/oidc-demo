@@ -1,0 +1,9 @@
+server:
+  port: 5000
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://idp:8080/auth/realms/acme

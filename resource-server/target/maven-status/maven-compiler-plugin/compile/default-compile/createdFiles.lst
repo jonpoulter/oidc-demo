@@ -1,0 +1,10 @@
+springfive/security/resourceserver/domain/vo/Authority.class
+springfive/security/resourceserver/domain/vo/Message.class
+springfive/security/resourceserver/domain/vo/User.class
+springfive/security/resourceserver/ResourceServerApplication.class
+springfive/security/resourceserver/ResourceServerApplication$Runner.class
+springfive/security/resourceserver/domain/repositories/AuthorityRepository.class
+springfive/security/resourceserver/domain/repositories/MessageRepository.class
+springfive/security/resourceserver/domain/resources/MessageController.class
+springfive/security/resourceserver/domain/infra/SecurityConfig.class
+springfive/security/resourceserver/domain/repositories/UserRepository.class
